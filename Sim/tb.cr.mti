@@ -1,0 +1,8 @@
+{H:/Image processing/Veirlog/Sharpen/rd_bin.v} {1 {vlog -work work -vopt -stats=none {H:/Image processing/Veirlog/Sharpen/rd_bin.v}
+QuestaSim-64 vlog 10.4e Compiler 2016.04 Apr  9 2016
+-- Compiling module rd_bin
+
+Top level modules:
+	rd_bin
+
+} {} {}}

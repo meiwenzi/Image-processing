@@ -1,0 +1,87 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Matlab
+vbinarization
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]eZoJXV<NSR^`]SbW;QnQ2
+IV?LMiJ7YX8?[Bk:30S[[X2
+Z1 dH:/Image processing/Sim
+w1546477415
+8H:/Image processing/Veirlog/Binarization/binarization.v
+FH:/Image processing/Veirlog/Binarization/binarization.v
+L0 4
+Z2 OL;L;10.4e;61
+Z3 !s108 1546932112.000000
+!s107 H:/Image processing/Veirlog/Binarization/binarization.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/Image processing/Veirlog/Binarization/binarization.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vgray
+!s110 1546932112
+!i10b 1
+!s100 e^h?0X=3_569o>LgKid_F2
+INlkAN;5A59dbAFnL@NWjA1
+R0
+R1
+w1546422742
+8H:\Image processing\Veirlog\Gray\gray.v
+FH:\Image processing\Veirlog\Gray\gray.v
+L0 4
+R2
+r1
+!s85 0
+31
+R3
+!s107 H:\Image processing\Veirlog\Gray\gray.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:\Image processing\Veirlog\Gray\gray.v|
+!i113 0
+R4
+vhistogram
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 0@6[I<i:C>8BJ>0V`N0PR2
+I]U04J5Ro7nH9_oXcn]@m50
+R1
+w1546746171
+8H:\Image processing\Veirlog\Histogram\histogram.v
+FH:\Image processing\Veirlog\Histogram\histogram.v
+L0 4
+R2
+!s108 1546746177.000000
+!s107 H:\Image processing\Veirlog\Histogram\histogram.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:\Image processing\Veirlog\Histogram\histogram.v|
+!i113 0
+R4
+vrd_bin
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 dU31nfJd<YjN@A4b78TYG1
+I:Uz2bZN?MaO2`glgWbg?01
+R1
+w1547003336
+8H:/Image processing/Veirlog/Sharpen/rd_bin.v
+FH:/Image processing/Veirlog/Sharpen/rd_bin.v
+L0 9
+R2
+!s108 1547003345.000000
+!s107 H:/Image processing/Veirlog/Sharpen/rd_bin.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/Image processing/Veirlog/Sharpen/rd_bin.v|
+!i113 0
+R4
